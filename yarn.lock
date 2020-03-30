@@ -10120,6 +10120,11 @@ url@^0.11.0:
     punycode "1.3.2"
     querystring "0.2.0"
 
+use-navigation@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/use-navigation/-/use-navigation-0.0.3.tgz#8290ce31130b74e27986033c17f131c21b269df8"
+  integrity sha512-pWyFyDS2ToNXrbQRJG9EySX3TtqhwGpFUt26tXVRgE/lK0Q2fUKV+J6RRqUbMgXXpBBnT8WPQkziUOpfKs71sA==
+
 use@^3.1.0:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/use/-/use-3.1.1.tgz#d50c8cac79a19fbc20f2911f56eb973f4e10070f"
